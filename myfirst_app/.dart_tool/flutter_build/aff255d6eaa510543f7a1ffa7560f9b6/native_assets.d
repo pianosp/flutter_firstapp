@@ -1,0 +1,1 @@
+ /Users/piano/Desktop/dev/flutter/myfirst_app/.dart_tool/flutter_build/aff255d6eaa510543f7a1ffa7560f9b6/native_assets.yaml: 
